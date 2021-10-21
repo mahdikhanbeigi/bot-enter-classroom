@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bot-enter-classroom/static/css/main.2e38eb64.chunk.css",
+    "main.js": "/bot-enter-classroom/static/js/main.80298ea0.chunk.js",
+    "main.js.map": "/bot-enter-classroom/static/js/main.80298ea0.chunk.js.map",
+    "runtime-main.js": "/bot-enter-classroom/static/js/runtime-main.61a51e84.js",
+    "runtime-main.js.map": "/bot-enter-classroom/static/js/runtime-main.61a51e84.js.map",
+    "static/css/2.c4a2ec70.chunk.css": "/bot-enter-classroom/static/css/2.c4a2ec70.chunk.css",
+    "static/js/2.b0ef4562.chunk.js": "/bot-enter-classroom/static/js/2.b0ef4562.chunk.js",
+    "static/js/2.b0ef4562.chunk.js.map": "/bot-enter-classroom/static/js/2.b0ef4562.chunk.js.map",
+    "static/js/3.78ddf3e5.chunk.js": "/bot-enter-classroom/static/js/3.78ddf3e5.chunk.js",
+    "static/js/3.78ddf3e5.chunk.js.map": "/bot-enter-classroom/static/js/3.78ddf3e5.chunk.js.map",
+    "index.html": "/bot-enter-classroom/index.html",
+    "static/css/2.c4a2ec70.chunk.css.map": "/bot-enter-classroom/static/css/2.c4a2ec70.chunk.css.map",
+    "static/css/main.2e38eb64.chunk.css.map": "/bot-enter-classroom/static/css/main.2e38eb64.chunk.css.map",
+    "static/js/2.b0ef4562.chunk.js.LICENSE.txt": "/bot-enter-classroom/static/js/2.b0ef4562.chunk.js.LICENSE.txt",
+    "static/media/base.scss": "/bot-enter-classroom/static/media/Vazir.dd7ae5ad.ttf",
+    "static/media/all.min.css": "/bot-enter-classroom/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61a51e84.js",
+    "static/css/2.c4a2ec70.chunk.css",
+    "static/js/2.b0ef4562.chunk.js",
+    "static/css/main.2e38eb64.chunk.css",
+    "static/js/main.80298ea0.chunk.js"
+  ]
+}
